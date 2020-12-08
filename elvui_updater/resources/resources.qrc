@@ -1,5 +1,5 @@
 <RCC>
   <qresource prefix="ui">
-    <file>gui.ui</file>
+    <file>gui/gui.ui</file>
   </qresource>
 </RCC>

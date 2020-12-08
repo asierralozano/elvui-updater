@@ -10,9 +10,6 @@ _DOWNLOAD_BUTTON_CLASS = "btn btn-mod btn-border-w btn-round btn-large"
 _HREF_REGEX = r"/downloads/elvui-(?P<version>\d+\.\d+)\.zip"
 
 
-class Test(object):
-    pass
-
 class Downloader(QtCore.QObject):
 
     download_finished = QtCore.Signal()
